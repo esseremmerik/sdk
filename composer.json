@@ -24,7 +24,7 @@
     "ralouphie/getallheaders": "^2.0.5 || ^3.0.0",
     "symfony/serializer": "^4.4",
     "zendframework/zend-filter": "^2.9",
-    "zendframework/zend-hydrator": "^2.4"
+    "laminas/laminas-hydrator": "^4.3.1"
   },
   "require-dev": {
     "ext-simplexml": "*",

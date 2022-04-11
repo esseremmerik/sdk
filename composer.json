@@ -23,7 +23,7 @@
     "psr/http-message": "~1.0",
     "ralouphie/getallheaders": "^2.0.5 || ^3.0.0",
     "symfony/serializer": "^4.4",
-    "zendframework/zend-filter": "^2.9",
+    "laminas/laminas-filter": "^2.14",
     "laminas/laminas-hydrator": "^4.3.1"
   },
   "require-dev": {
